@@ -1,0 +1,54 @@
+body{
+  background-color: #2798c4;
+}
+h1{
+  border width: 5px;
+  border-style: double;
+  border-color: black;
+}
+.firstp{
+  background-color: rgb(207, 194, 12);
+}
+h3{
+  color: #8b1ed4;
+}
+#li1{
+  color: #9763ba;
+  text-decoration:overline;
+}
+#textblock{
+border-width: thick;
+border-color: #6b686e;
+border-style: insets;
+width: 800px;
+height:400px;
+}
+h2{
+  color: #8b1ed4;
+}
+.input1{
+  border-style: solid;
+  border-color: red;
+}
+.input2{
+  border-style: solid;
+  border-color: red;
+}
+#logi{
+  border-color: red;
+}
+.div1 p{
+  background-color: rgb(207, 194, 12);
+}
+
+.li2
+ a{
+  color: red;
+}
+.div1{
+  background-color: blue;
+  border: 5px dotted yellow;
+}
+a:visited{
+  color: blue;
+}
